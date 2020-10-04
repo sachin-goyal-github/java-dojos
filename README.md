@@ -1,2 +1,2 @@
-# java_poc
-Java Proof of concepts
+# java-dojos
+Java [Dojos](https://codingdojo.org/)
